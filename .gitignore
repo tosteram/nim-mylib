@@ -1,0 +1,7 @@
+# .gitignore
+nimcache/
+*~
+.DS_Store
+
+# executable
+collate
